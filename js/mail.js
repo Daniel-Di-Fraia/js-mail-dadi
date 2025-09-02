@@ -16,6 +16,7 @@ const mail = [
     "noemilucciola@gmail.com",
     "alessandroverdi@yahoo.it",
 ]
+console.log(mail);
 //booleano per capire se ha trovato o meno la mail
 let find = false;
 
